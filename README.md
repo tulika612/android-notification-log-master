@@ -1,3 +1,7 @@
+# modification in existing open source framework
+
+In this I have added feature which gives statistics about notification from each app
+
 # Notification Log for Android
 
 An Open-Source Framework for Notification Research on Mobile Devices.
